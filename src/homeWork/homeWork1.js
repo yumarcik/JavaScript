@@ -81,5 +81,6 @@ function asalSayiListele() {
     }
     
 }
+
 asalSayiListele()
 
