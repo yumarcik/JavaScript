@@ -59,6 +59,7 @@ let showProducts = function (id,...products) {
 //console.log(typeof showProducts)
 //showProducts(10, ["Elma", "Armut", "Karpuz"])
 
+
 //spread 
 let points = [1,2,3,4,50,4,60,14]
 //console.log(...points)

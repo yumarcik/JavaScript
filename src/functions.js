@@ -19,6 +19,7 @@ let sayHello2 = function () {
 sayHello2()
 
 function addToCart2(productName, quantity, unitPrice) {
+    
 
 }
 

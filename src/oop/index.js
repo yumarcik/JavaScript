@@ -19,6 +19,7 @@ class IndividualCustomer extends Customer{
     constructor(firstName, id, customerNumber){
         super(id, customerNumber)
         this.firstName = firstName
+
     }
 }
 
